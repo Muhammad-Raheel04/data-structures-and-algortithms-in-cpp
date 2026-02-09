@@ -156,7 +156,10 @@ If the element occurs multiple times, return the index of its first occurrence.
 Use a variable to track whether the element was found or not.
 
 
-Question: Binary Search in a Sorted Array
+======================================
+           Question #6
+======================================
+Binary Search in a Sorted Array
 
 Write a C++ program that performs a binary search on a sorted array of integers.
 
@@ -181,3 +184,94 @@ The array must be sorted for binary search to work correctly.
 The search continues while start <= end.
 
 Time complexity of the algorithm is O(log n)
+
+Question: Array Operations and Searching/Sorting Program in C++
+
+Write a C++ program that allows the user to perform various operations on an integer array. The program should support the following functionalities through a menu-driven interface:
+
+Traverse the Array
+
+Display all elements of the array in their current order.
+
+If the array is empty, display an appropriate message.
+
+Insert an Element into the Array
+
+Prompt the user to enter a value and a position (1-based index) to insert the element.
+
+Validate the position; if invalid, display an error message.
+
+Shift elements as necessary to make space for the new element.
+
+Update the size of the array accordingly.
+
+Delete an Element from the Array
+
+Prompt the user to enter a position (1-based index) of the element to delete.
+
+Validate the position; if invalid, display an error message.
+
+Shift elements to remove the element and update the array size.
+
+Linear Search on the Array
+
+Prompt the user to enter a value to search for.
+
+Perform a linear search to find the first occurrence of the value.
+
+Display the position of the element if found, otherwise display "Element not found".
+
+Sort the Array
+
+Provide a sub-menu with two sorting options:
+
+Bubble Sort: Sort the array in ascending order using the Bubble Sort algorithm.
+
+Selection Sort: Sort the array in ascending order using the Selection Sort algorithm.
+
+Display a message confirming the array has been sorted.
+
+Binary Search on the Array
+
+Prompt the user to enter a value to search for.
+
+Perform a binary search (assuming the array is already sorted) to locate the element.
+
+Display the position if found, otherwise display "Element not found".
+
+Exit
+
+Terminate the program when the user selects this option.
+
+Requirements:
+
+The program should handle a maximum array size of 100 elements.
+
+Use functions for each operation: traverse, insert, delete, linear search, binary search, bubble sort, and selection sort.
+
+Ensure input validation for positions when inserting or deleting elements.
+
+Use pass-by-reference for array size (n) when it needs to be modified.
+
+The menu should repeatedly appear until the user chooses to exit.
+
+Display appropriate messages for all operations (success, failure, or invalid input).
+
+Sample Input/Output:
+
+===== MAIN MENU =====
+1. Traverse the Array
+2. Insert Data into an Array
+3. Delete from an Array
+4. Linear Search on an Array
+5. Sort the Array
+6. Binary Search on an Array
+0. Exit
+Enter your choice: 2
+Enter element to insert: 25
+Enter position (1 to 1): 1
+Element inserted successfully.
+
+===== MAIN MENU =====
+1. Traverse the Array
+...
