@@ -185,7 +185,9 @@ The search continues while start <= end.
 
 Time complexity of the algorithm is O(log n)
 
-Question: Array Operations and Searching/Sorting Program in C++
+======================================
+           Question #7
+======================================
 
 Write a C++ program that allows the user to perform various operations on an integer array. The program should support the following functionalities through a menu-driven interface:
 
