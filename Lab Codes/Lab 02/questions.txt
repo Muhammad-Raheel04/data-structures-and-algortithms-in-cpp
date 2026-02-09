@@ -1,4 +1,6 @@
-Question #1
+======================================
+           Question #1
+======================================
 
 Sort the String (ASCII Order)
 
@@ -31,7 +33,9 @@ This is a pure ASCII-based sort
 
 No characters are removed or filtered
 
-Question #2
+======================================
+           Question #2
+======================================
 Sort the Array (Ascending Order using Bubble Sort)
 
 Create a program that takes an array of integers and sorts the array in ascending order using the Bubble Sort algorithm.
@@ -65,7 +69,9 @@ Sorting is performed in-place
 
 Time complexity: O(n²)
 
-Question #3
+======================================
+           Question #3
+======================================
 
 Sort the Array (Ascending Order using Selection Sort)
 
@@ -105,7 +111,9 @@ Sorting is performed in-place
 
 Time complexity: O(n²)
 
-Question #4
+======================================
+           Question #4
+======================================
 Stand in Line
 Write a function that takes an array and a number as arguments. Add the number to the end of the array, then remove the first element of the array. The function should then return the updated array.
 
@@ -120,7 +128,9 @@ nextInLine([], 6) ➞ "No array has been selected"
 Notes
 For an empty array input, return: "No array has been selected"
 
-Question #5
+======================================
+           Question #5
+======================================
 Linear Search in an Array
 
 Write a C++ program that performs a linear search on an integer array.
@@ -144,3 +154,30 @@ The search should stop as soon as the element is found.
 If the element occurs multiple times, return the index of its first occurrence.
 
 Use a variable to track whether the element was found or not.
+
+
+Question: Binary Search in a Sorted Array
+
+Write a C++ program that performs a binary search on a sorted array of integers.
+
+The program should:
+
+Store 6 integers in an array sorted in ascending order.
+
+Take an integer value from the user as input.
+
+Search for the given value using the Binary Search algorithm.
+
+Use variables start, end, and mid to divide the search space.
+
+If the element is found, display the index where it is located.
+
+If the element is not found, display "Element not found".
+
+Notes:
+
+The array must be sorted for binary search to work correctly.
+
+The search continues while start <= end.
+
+Time complexity of the algorithm is O(log n)
