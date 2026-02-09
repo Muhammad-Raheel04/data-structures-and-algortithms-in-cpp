@@ -1,0 +1,4 @@
+Question #1
+Write A c++ Program That checks if a given number is a Palindrome.
+Palindrome is a number that remains the same when its digits are reversed. Like
+121,313, 14641 etc
