@@ -1,15 +1,32 @@
 Question #1
-Sort the String
-Create a function that takes a string consisting of lowercase letters, uppercase letters and numbers and returns the string sorted in the same way as the examples below.
+
+Sort the String (ASCII Order)
+
+Create a program that takes a string consisting of lowercase letters, uppercase letters, and numbers, and sorts the string in ascending ASCII order using Bubble Sort.
+
+The sorting follows these rules:
+
+Characters are sorted based on their ASCII values
+
+Numbers come first, followed by uppercase letters, then lowercase letters
+
+All characters are preserved (letters and numbers can repeat)
+
+No special priority is given to letter case
 
 Examples
-sorting("eA2a1E") ➞ "aAeE12"
-// Don't repeat letters.
+sorting("eA2a1E") ➞ "12AEae"
 
-sorting("Re4r") ➞ "erR4"
+sorting("Re4r") ➞ "4Rer"
 
-sorting("6jnM31Q") ➞ "jMnQ136"
+sorting("6jnM31Q") ➞ "136MQjn"
 
-sorting("846ZIbo") ➞ "bIoZ468"
+sorting("846ZIbo") ➞ "468IZbo"
+
 Notes
-Don't repeat letters (numbers can be repeated).
+
+Sorting is done using Bubble Sort
+
+This is a pure ASCII-based sort
+
+No characters are removed or filtered
