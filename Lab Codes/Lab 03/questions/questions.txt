@@ -29,3 +29,10 @@ passed values using pointers.
 ======================================
 Write a program to swap two values by passing pointers as
 arguments to the function
+
+======================================
+           Question #6
+======================================
+Write a program to convert Fahrenheit temperature to
+Celsius degree by passing pointers as arguments to the
+function.
