@@ -16,3 +16,9 @@ using variable name and also print out the memory address of the variable using 
 ======================================
 Write a program to input data into an array and then to print on the computer screen by using
 pointer notation
+
+======================================
+           Question #4
+======================================
+Write a program to pass two parameters to the function to add a constant value of 100 to the
+passed values using pointers.
