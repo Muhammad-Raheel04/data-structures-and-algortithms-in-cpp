@@ -22,3 +22,10 @@ pointer notation
 ======================================
 Write a program to pass two parameters to the function to add a constant value of 100 to the
 passed values using pointers.
+
+
+======================================
+           Question #5
+======================================
+Write a program to swap two values by passing pointers as
+arguments to the function
