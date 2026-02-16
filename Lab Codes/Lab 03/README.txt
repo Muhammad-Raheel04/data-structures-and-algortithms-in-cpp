@@ -38,7 +38,7 @@ questions.txt - Complete problem statements
              Quick Start
 ============================================             
 bash
-git clone https://github.com/yourusername/pointer-solutions.git
+git clone https://github.com/Muhammad-Raheel04/data-structures-and-algortithms-in-cpp.git
 cd pointer-solutions
 g++ filename.cpp -o output && ./output
 
