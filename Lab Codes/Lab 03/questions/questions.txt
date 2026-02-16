@@ -42,3 +42,13 @@ function.
 ======================================
 Write a program to convert kilogram into grams by passing
 pointers as arguments to the function
+
+======================================
+           Question #7
+======================================
+Write a C++ code to print a string character by character.
+
+======================================
+           Question #8
+======================================
+Write a program to find length of string by using pointers
