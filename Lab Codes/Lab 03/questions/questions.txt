@@ -36,3 +36,9 @@ arguments to the function
 Write a program to convert Fahrenheit temperature to
 Celsius degree by passing pointers as arguments to the
 function.
+
+======================================
+           Question #7
+======================================
+Write a program to convert kilogram into grams by passing
+pointers as arguments to the function
