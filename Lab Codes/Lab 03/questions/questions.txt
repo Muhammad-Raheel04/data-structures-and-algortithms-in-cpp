@@ -10,3 +10,9 @@ addresses of the variables and b through their pointer variables.
 ======================================
 Write a program to assign a value to a variable using its pointer variable. Print out the value
 using variable name and also print out the memory address of the variable using pointer variable.
+
+======================================
+           Question #3
+======================================
+Write a program to input data into an array and then to print on the computer screen by using
+pointer notation
