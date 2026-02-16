@@ -57,3 +57,10 @@ Write a program to find length of string by using pointers
            Question #10
 ======================================
 Write a program to combine two strings using pointers.
+
+
+======================================
+           Question #11
+======================================
+Write a program to input data into an array and find out the
+maximum value from array through pointers.
