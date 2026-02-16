@@ -1,0 +1,6 @@
+======================================
+           Question #1
+======================================
+Write a program to assign two values to two integer type variables a and b. Assign the memory
+address of variable a and b to pointer variable x and y respectively. Print out the memory
+addresses of the variables and b through their pointer variables.
