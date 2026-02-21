@@ -64,3 +64,41 @@ Write a program to combine two strings using pointers.
 ======================================
 Write a program to input data into an array and find out the
 maximum value from array through pointers.
+
+======================================
+           Question #12
+======================================
+
+A college has divided students into multiple project groups.
+Each group contains a different number of students.
+
+Because the number of students in each group is not the same, 
+using a traditional 2D array would waste memory by allocating unused spaces.
+
+Your task is to write a C++ program that:
+
+Creates 4 different groups.
+
+Allocates memory dynamically for each group based on its actual number of students.
+
+Stores the names of students in each group.
+
+Displays all group members properly.
+
+Frees the allocated memory at the end of the program.
+
+Requirements
+
+Use array of pointers (jagged array).
+
+Do NOT use vector.
+
+Allocate memory using new.
+
+Deallocate memory using delete[].
+
+Ensure no memory is wasted.
+
+Objective
+
+Demonstrate how pointer arrays can be used to efficiently manage uneven 2D data structures while optimizing memory usage.
