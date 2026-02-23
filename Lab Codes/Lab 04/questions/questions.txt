@@ -3,3 +3,15 @@
 ======================================
 
 Create a simple Linked List.Assign data and traverse list.
+
+======================================
+           Question #1
+======================================
+Write a C++ program to implement a singly linked list using structures.
+
+The program should:
+
+Create an initial linked list containing three nodes with values 10, 20, and 30.
+Display (traverse) the linked list.
+Insert a new node at the beginning of the list using a separate function.
+Display the updated linked list after insertion.
