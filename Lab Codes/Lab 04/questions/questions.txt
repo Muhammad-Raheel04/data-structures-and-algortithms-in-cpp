@@ -2,10 +2,11 @@
            Question #1
 ======================================
 
-Create a simple Linked List.Assign data and traverse list.
+Create a simple Linked List.Assign data and traverse
+list.
 
 ======================================
-           Question #1
+           Question #2
 ======================================
 Write a C++ program to implement a singly linked list using structures.
 
@@ -15,3 +16,15 @@ Create an initial linked list containing three nodes with values 10, 20, and 30.
 Display (traverse) the linked list.
 Insert a new node at the beginning of the list using a separate function.
 Display the updated linked list after insertion.
+
+
+======================================
+           Question #3
+======================================
+Consider the given C++ program that creates and manipulates a singly linked list.
+
+Describe the initial linked list created by the createList() function.
+Explain step by step what happens when insertFirst(10) and insertAfter are called.
+Show the linked list after each insertion operation.
+How do the insertFirst and insertAfter functions handle memory allocation and linking of nodes?
+What will happen if insertAfter is called with a nullptr as the location?
