@@ -15,9 +15,10 @@ int main(){
     first->data=20;
     first->next=second;
 
-    
     second->data=30;
     second->next=nullptr;
+
+    head=first; // head just points to first node
 
     // Traverse and print list
     Node* temp=head;
