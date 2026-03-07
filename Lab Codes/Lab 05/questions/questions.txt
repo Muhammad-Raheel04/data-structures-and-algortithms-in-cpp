@@ -1,0 +1,19 @@
+=================================================
+              Question 1
+=================================================              
+Write a C++ program to implement a Singly Linked List using functions.
+Create a menu-driven program that performs the following operations:
+
+Create a linked list
+Traverse (display) the linked list
+Insert a node at the beginning
+Insert a node after a given node
+Insert a node into a sorted linked list
+Delete the first node
+Delete the node after a given node
+Delete the node with a given value
+Search an element in an unsorted linked list
+Search an element in a sorted linked list
+
+The program should display a main menu for these operations and 
+allow the user to reuse the program without closing it.
