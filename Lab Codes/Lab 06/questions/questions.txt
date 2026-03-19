@@ -1,0 +1,10 @@
+============================================
+            Question #1
+============================================
+Write a C++ program to implement a Doubly Linked List with the following operations:
+
+Insert a node at the end
+Traverse the list forward and backward
+Search for a value
+Delete a node (from beginning, middle, or end)
+Demonstrate all operations in main().            
